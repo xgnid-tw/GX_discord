@@ -1,0 +1,5 @@
+aio_pika==8.0.2
+discord.py==1.7.3
+notion_client==1.0.0
+pika==1.2.1
+python-dotenv==0.20.0
